@@ -1,6 +1,5 @@
 ]cdtexto3
 cdtexto3
-cdtexto3
-cdtexto3
-cdtexto3
-cdtexto3
+
+
+vamos usar o comando -am
